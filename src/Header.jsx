@@ -55,7 +55,6 @@ export default function Header() {
 									</a>
 								</div>
 
-						
 								<div className="flex items-center justify-center hover:cursor-pointer h-[34px] w-[34px] rounded-3xl">
 									<svg
 										onClick={showMenu}
@@ -94,11 +93,7 @@ export default function Header() {
 								</div>
 							</div>
 						</div>
-					</div>
-
-					
-
-					
+					</div>					
 				</>
 			);
 }
